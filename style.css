@@ -16,6 +16,7 @@
   box-sizing: border-box;
 }
 
+
 .section__container {
   max-width: var(--max-width);
   margin: auto;
@@ -45,6 +46,7 @@
   max-width: 900px;
   color: var(--text-light);
 }
+
 
 .btn {
   padding: 0.75rem 1.5rem;
